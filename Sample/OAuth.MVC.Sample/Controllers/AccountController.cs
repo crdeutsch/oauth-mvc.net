@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Web.Mvc;
+using OAuth.MVC.Sample.App_Start;
 
 namespace OAuth.MVC.Sample.Controllers
 {
