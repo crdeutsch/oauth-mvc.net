@@ -1,6 +1,7 @@
 ﻿using System.Web.Mvc;
 using OAuth.Core.Interfaces;
 using OAuth.MVC.Library.Filters;
+using OAuth.MVC.Sample.App_Start;
 
 namespace OAuth.MVC.Sample.Controllers
 {
